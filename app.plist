@@ -28,8 +28,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>com.xhldev558.com</key>
-				<string>com.baibaod</string>
+				<key>bundle-identifier</key>
+				<string>com.xhldev558.com</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
